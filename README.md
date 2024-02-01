@@ -3,4 +3,4 @@
 Landing page desenvolvida com HTML e CSS
 <br>
 
-<img src="./assets/mockup.jpg">
+<img src="./mockup.jpg">
