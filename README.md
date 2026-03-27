@@ -13,7 +13,7 @@ Este projeto consiste em uma landing page criada para destacar serviços de cuid
 
 ## 🔗 Acesse o projeto
 
-👉 (adicione aqui o link do Netlify)
+👉 (https://projeto-we-care.netlify.app/)
 
 ## 📸 Preview
 
